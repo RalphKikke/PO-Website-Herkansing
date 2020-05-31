@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin : 0;
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fjansbeek.nl%2Froom%2Fkamer-tuinzicht%2Fattachment%2Flarge-white-background%2F&psig=AOvVaw1CXUmW8oiE1AjT9FGUe4vM&ust=1591012553598000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDL8OKF3ukCFQAAAAAdAAAAABAE) 
+}
+
+header{
+  background-color:lightblue;
+  height: 125px
+}
+
+article{
+  background-color:aliceblue;
+  width:70vw;
+  margin: 10px auto 10px auto;
+  padding: 10px;
+}
+
+nav{
+  background-color:red;
+
+}
+
+ul{
+  margin: 0;
+}
+
+ul li{
+  display:inline-block;
+  padding:10px;
+}
+
+a{
+ color: white; 
+ background-color: rgba(255, 122, 122, 0.836);
+ font-family: Arial, Helvetica, sans-serif;
+ text-decoration: none;
+ border: 1px solid white;
+ border-radius: 3px;
+ padding: 5px;
+}
